@@ -1,0 +1,4 @@
+{
+    "comment" :  "we are making Cart.js our main file. Kind of like what index.js is to this project because Cart component consists of several components—keeps things organized—yes this is a workaround to comment in JSON—it gets worse...can't put this comment on a new line either; things break...sigh",
+    "main": "Cart.js"
+}
