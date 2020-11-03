@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+#always hidden by putting inside this git ignore
+.env.development
 
 # testing
 /coverage
